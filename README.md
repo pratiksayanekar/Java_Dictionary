@@ -7,4 +7,4 @@ This is simple Java Project, Please follow the steps to set up at your end.
 
 OR
 
-Simply run java -jar input.java
+Simply run java -jar input.java from your console
